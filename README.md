@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá 🌎, eu sou Davi!
 
+Me chamo Davi Rodrigues Ferreira, tenho 22 anos e sou um desenvolvedor Full-Stack Web, trabalhando principalmente com HTML, CSS e JavaScript.
 <!--
 **DaviRFerreir4/DaviRFerreir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
