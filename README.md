@@ -11,13 +11,13 @@ Sei:
 Estou aprendendo:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,vue,pinia,vuetify,figma&perline=3">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,vue,graphql,vuetify,express&perline=3">
 </a><br><br>
 
 Tenho interesse em:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,docker,git,tailwind,react,nextjs,express&perline=3">
+    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,docker,git,tailwind,react,nextjs,figma&perline=3">
 </a><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
