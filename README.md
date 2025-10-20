@@ -11,13 +11,13 @@ Sei:
 Estou aprendendo:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,vue,graphql,vuetify,express&perline=3">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,graphql,vue,react,vuetify,tailwind,express,mint&perline=3">
 </a><br><br>
 
 Tenho interesse em:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,docker,git,tailwind,react,nextjs,figma&perline=3">
+    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,docker,git,java,go,nextjs,figma&perline=3">
 </a><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,8 +30,8 @@ Tenho interesse em:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=Fullstack-Web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a>
 <br><br>
-<a href="https://github.com/DaviRFerreir4/Todo-List-V3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=Todo-List-V3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+<a href="[https://github.com/DaviRFerreir4/Todo-List-V3](https://github.com/DaviRFerreir4/REST-Countries-API)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=REST-Countries-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a>
 
 ## Confira minha frequência de contribuições de uma maneira divertida:
