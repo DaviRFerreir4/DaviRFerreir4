@@ -1,36 +1,17 @@
 # Olá 🌎, eu sou Davi!
 
-Me chamo Davi Rodrigues Ferreira, tenho 22 anos, sou um estudante de **Ciências da Computação** e um **Desenvolvedor Full-Stack Web** em desenvolvimento.
+Me chamo Davi Rodrigues Ferreira, tenho 23 anos, sou um estudante de **Ciências da Computação** e um **Desenvolvedor Full-Stack Web** em desenvolvimento.
 
-Domino:
+| Domino | Tenho familiariedade | Estou aprendendo | Tenho interesse |
+| :---: | :---: | :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts&perline=2" /></a> | <a href="https://skillicons.dev" style=""><img src="https://skillicons.dev/icons?i=express,vue,vuetify,react,tailwind,docker&perline=2" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,jenkins,linux,graphql,nextjs&perline=2"></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,redis,git,java,go,figma&perline=3"></a> |
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css">
-</a><br><br>
-
-Tenho familiariedade com:
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,vue,vuetify,react,tailwind,docker&perline=3" />
-</a><br><br>
-
-Estou aprendendo:
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,linux,graphql,nextjs&perline=3">
-</a><br><br>
-
-Tenho interesse em:
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,redis,git,java,go,figma&perline=3">
-</a><br><br>
-
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirferreir4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact">
 </a>
 
-## Acompanhe meu progresso nos meus repositórios de estudo mais utilizados no momento:
+## Acompanhe meu progresso:
     
 <a href="https://github.com/DaviRFerreir4/Fullstack-Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=Fullstack-Web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
