@@ -2,22 +2,28 @@
 
 Me chamo Davi Rodrigues Ferreira, tenho 22 anos, sou um estudante de **Ciências da Computação** e um **Desenvolvedor Full-Stack Web** em desenvolvimento.
 
-Sei:
+Domino:
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css">
 </a><br><br>
 
+Tenho familiariedade com:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,express,vue,vuetify,react,tailwind,docker&perline=3" />
+</a><br><br>
+
 Estou aprendendo:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,graphql,vue,react,vuetify,tailwind,express,mint&perline=3">
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,linux,graphql,nextjs&perline=3">
 </a><br><br>
 
 Tenho interesse em:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,docker,git,java,go,nextjs,figma&perline=3">
+    <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,redis,git,java,go,figma&perline=3">
 </a><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,12 +34,16 @@ Tenho interesse em:
     
 <a href="https://github.com/DaviRFerreir4/Fullstack-Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=Fullstack-Web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-</a>
-<br><br>
+</a><br><br>
+
+## Projetos relevantes
 <a href="[https://github.com/DaviRFerreir4/Todo-List-V3](https://github.com/DaviRFerreir4/REST-Countries-API)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=REST-Countries-API&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a>
-
-## Confira minha frequência de contribuições de uma maneira divertida:
-
+<a href="[https://github.com/DaviRFerreir4/Climate-App](https://github.com/DaviRFerreir4/Climate-App)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davirferreir4&repo=Climate-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+</a><br><br>
+<!-- 
+## Frequência de contribuições:
 <img src="https://pacman.abozanona.me?username=davirferreir4">
+-->
