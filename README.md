@@ -4,7 +4,7 @@ Me chamo Davi Rodrigues Ferreira, tenho 23 anos, sou um estudante de **Ciências
 
 | Domino | Tenho familiariedade | Estou aprendendo | Tenho interesse |
 | :---: | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts&perline=2" /></a> | <a href="https://skillicons.dev" style=""><img src="https://skillicons.dev/icons?i=express,vue,vuetify,react,tailwind,docker&perline=2" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,jenkins,linux,graphql,nextjs&perline=2"></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,redis,git,java,go,figma&perline=3"></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts&perline=2" /></a> | <a href="https://skillicons.dev" style=""><img src="https://skillicons.dev/icons?i=express,vue,vuetify,react,tailwind,docker&perline=2" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,jenkins,linux,graphql,nextjs,terraform&perline=2"></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs,postgres,mongo,redis,git,java,go,figma&perline=3"></a> |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirferreir4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact">
